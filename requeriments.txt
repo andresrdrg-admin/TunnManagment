@@ -1,0 +1,6 @@
+pyinstaller
+pexpect
+wexpect
+pystray
+psutil
+pillow==9.5.0

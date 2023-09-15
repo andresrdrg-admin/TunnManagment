@@ -1,0 +1,17 @@
+{
+  "name": "ui.tunnmanagment.munakdigital",
+  "version": "1.0.0",
+  "description": "UI TunnManagment",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "electron-builder"
+  },
+  "author": "Mauricio Gonzalez (MunakDigital)",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.3.2",
+    "electron-builder": "^24.6.3"
+  }
+}
